@@ -13,14 +13,6 @@ Author: Qingan Xu · November 2026
 | `data/data_academic_performance.csv` | The `SABER11_SABERPRO` sheet saved as CSV (12,411 rows × 45 columns) |
 | `data/data_definitions.csv` | The workbook's data definitions saved as CSV |
 
-## How to run in Google Colab
-
-1. Open the notebook in Colab (*File → Open notebook → GitHub*, then pick this repository).
-2. Choose *Runtime → Run all*.
-3. When Colab shows the **Upload** button under "Load the data", upload `data/data_academic_performance.xlsx` from this repository. The CSV works too.
-
-The notebook also finds the data on its own if the file sits next to the notebook, in a `data/` folder, or in `/content`. If this repository is public, you can instead set `DATA_URL` in the loading cell to the file's raw GitHub URL. Every library used (pandas, NumPy, SciPy, Matplotlib) is pre-installed in Colab. A full run takes under a minute and writes the report figures to `figures/` and the summary tables to `outputs/`.
-
 ## Data source
 
 De La Hoz, Enrique. "Data of Academic Performance Evolution for Engineering Students." Mendeley Data, version 1, 2020. https://doi.org/10.17632/83tcx8psxv.1 (modified for the course).
