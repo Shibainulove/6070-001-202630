@@ -1,0 +1,45 @@
+Variable,Full name,Type,Levels (as documented)
+MAT_S11,Mathematics,Numeric,
+CR_S11,Critical Reading,Numeric,
+CC_S11,Citizen Competencies S11,Numeric,
+BIO_S11,Biology,Numeric,
+ENG_S11,English,Numeric,
+QR_PRO,Quantitative Reasoning,Numeric,
+CR_PRO,Critical Reading,Numeric,
+CC_PRO,Citizen Competencies SPRO,Numeric,
+ENG_PRO,English,Numeric,
+WC_PRO,Written Communication,Numeric,
+FEP_PRO,Formulation of Engineering Projects,Numeric,
+G_SC,Global Score,Numeric,
+PERCENTILE,Percentile,Numeric,
+2ND_DECILE,Second Decile,Numeric,
+QUARTILE,Quartile,Numeric,
+SEL,Socioeconomic Level,Numeric,
+SEL_IHE,Socioeconomic Level of The Institution of Higher Education,Numeric,
+GENDER,Gender,Categorical,2
+EDU_FATHER,Father's education,Categorical,12
+EDU_MOTHER,Mother's education,Categorical,12
+OCC_FATHER,Father's occupation,Categorical,13
+OCC_MOTHER,Mother's occupation,Categorical,13
+STRATUM,Stratum,Categorical,7
+SISBEN,Sisben,Categorical,6
+PEOPLE_HOUSE,People in the house,Categorical,13
+INTERNET,Internet,Categorical,2
+TV,TV,Categorical,2
+COMPUTER,Computer,Categorical,2
+WASHING_MCH,Washing machine,Categorical,2
+MIC_OVEN,Microwave oven,Categorical,2
+CAR,Car,Categorical,2
+DVD,DVD,Categorical,2
+FRESH,Fresh,Categorical,2
+PHONE,Phone,Categorical,2
+MOBILE,Mobile,Categorical,2
+REVENUE,Revenue,Categorical,3
+JOB,Job,Categorical,8
+SCHOOL_NAME,School name,Categorical,3735
+SCHOOL_NAT,Nature of School,Categorical,2
+SCHOOL_TYPE,Type of School,Categorical,4
+COD_SPRO,Code Saber Pro,Categorical,12411
+UNIVERSITY,University,Categorical,134
+ACADEMIC_PROGRAM,Academic Program,Categorical,23
+COD_S11,Code Saber 11,Categorical,12411
