@@ -4,14 +4,16 @@ Case study for the Department of Education. It looks at how parental education, 
 
 Author: Qingan Xu · November 2026
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shibainulove/6070-001-202630/blob/main/Assignments/First/MSSP6070_Assignment1_Academic_Performance.ipynb)
+
 ## Files
 
 | File | What it is |
 | --- | --- |
-| `MSSP607_Assignment1_Academic_Performance.ipynb` | Analysis notebook. It reproduces every table and figure in the written report. |
-| `data/data_academic_performance.xlsx` | Course data file: the `SABER11_SABERPRO` sheet plus the data-definition sheets |
-| `data/data_academic_performance.csv` | The `SABER11_SABERPRO` sheet saved as CSV (12,411 rows × 45 columns) |
-| `data/data_definitions.csv` | The workbook's data definitions saved as CSV |
+| `MSSP6070_Assignment1_Academic_Performance.ipynb` | Analysis notebook. It reproduces every table and figure in the written report. |
+| `data_academic_performance.xlsx` | Course data file: the `SABER11_SABERPRO` sheet plus the data-definition sheets |
+| `data_academic_performance.csv` | The `SABER11_SABERPRO` sheet saved as CSV (12,411 rows × 45 columns) |
+| `data_definitions.csv` | The workbook's data definitions saved as CSV |
 
 ## Data source
 
