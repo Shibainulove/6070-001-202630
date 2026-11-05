@@ -6,13 +6,6 @@ Coursework for MSSP 6070-001 (Fall 2026) · Qingan Xu
 
 Click a notebook's **Open in Colab** badge below, then choose **Runtime → Run all**.
 
-Opening a notebook from GitHub copies only the `.ipynb` file into Colab, not the data files next to it. So the first code cell of every notebook that reads data clones this repository into the Colab session with the Git_Key method, then moves into the notebook's folder. The data then loads from the same relative paths as on a local machine.
-
-The clone uses a GitHub personal access token saved in Colab Secrets. To set it up once:
-
-1. In Colab, open **Secrets** (the key icon in the left sidebar).
-2. Add a secret named `Git_Key` whose value is a GitHub token that can read this repository.
-3. Turn on **Notebook access** for `Git_Key`.
 
 ## Assignments
 
