@@ -6,10 +6,6 @@ Coursework for MSSP 6070-001 (Fall 2026) · Qingan Xu
 
 Click a notebook's **Open in Colab** badge below, then choose **Runtime → Run all**.
 
-<<<<<<< HEAD
-
-=======
->>>>>>> be2d922 (Hi I'm Léon)
 ## Assignments
 
 | Assignment | Notebook | Colab |
