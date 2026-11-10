@@ -1,0 +1,25 @@
+question,comparison,score,n 1,mean 1,n 2,mean 2,difference,CI low,CI high,t,df,p-value,Cohen's d,Mann-Whitney p,Holm p,significant
+Q2: males who took the course vs others,A. vs all other students,math,174,72.3391,826,64.7724,7.56668,5.20701,9.92635,6.31424,261.003,1.16165e-09,0.507952,5.45884e-09,8.13156e-09,True
+Q2: males who took the course vs others,A. vs all other students,reading,174,70.2126,826,68.9492,1.26349,-1.01441,3.54139,1.09212,265.441,0.27577,0.0865427,0.309638,0.27577,False
+Q2: males who took the course vs others,A. vs all other students,writing,174,69.7931,826,67.6877,2.10545,-0.10811,4.31901,1.87209,288.497,0.0622053,0.138678,0.132877,0.124411,False
+Q2: males who took the course vs others,A. vs all other students,total,174,212.345,826,201.409,10.9356,4.32586,17.5454,3.25745,267.071,0.00126959,0.256755,0.0029344,0.00380877,True
+Q2: males who took the course vs others,B. vs males who didn't take the course,math,174,72.3391,308,66.6883,5.65077,3.00984,8.2917,4.20805,355.449,3.26577e-05,0.400436,6.49623e-05,0.000130631,True
+Q2: males who took the course vs others,B. vs males who didn't take the course,reading,174,70.2126,308,62.7955,7.41719,4.88741,9.94697,5.76631,352.646,1.77154e-08,0.550166,4.40582e-08,8.8577e-08,True
+Q2: males who took the course vs others,B. vs males who didn't take the course,writing,174,69.7931,308,59.6494,10.1438,7.69273,12.5948,8.1382,368.556,6.23234e-15,0.765091,1.0247e-13,4.98587e-14,True
+Q2: males who took the course vs others,B. vs males who didn't take the course,total,174,212.345,308,189.133,23.2117,15.827,30.5964,6.18142,359.043,1.72644e-09,0.586252,8.91263e-09,1.03586e-08,True
+Q3: other differences,Gender: females vs males,math,518,63.6332,482,68.7282,-5.09501,-6.94721,-3.24281,-5.398,997.984,8.42084e-08,-0.340687,4.27908e-07,3.36834e-07,True
+Q3: other differences,Gender: females vs males,reading,518,72.6081,482,65.473,7.13508,5.37794,8.89222,7.96836,996.36,4.3763e-15,0.503717,5.37384e-15,5.68919e-14,True
+Q3: other differences,Gender: females vs males,writing,518,72.4672,482,63.3112,9.15598,7.35885,10.9531,9.99772,997.534,1.71181e-22,0.631572,4.66917e-23,2.56771e-21,True
+Q3: other differences,Gender: females vs males,total,518,208.708,482,197.512,11.196,5.93855,16.4535,4.17889,997.847,3.1862e-05,0.2639,1.26145e-05,6.3724e-05,True
+Q3: other differences,Females: took the course vs didn't,math,184,67.1957,334,61.6707,5.52499,2.84995,8.20003,4.06002,411.684,5.87426e-05,0.36162,0.000165888,6.3724e-05,True
+Q3: other differences,Females: took the course vs didn't,reading,184,77.375,334,69.982,7.39296,4.97487,9.81106,6.00948,423.127,4.01911e-09,0.530009,1.76096e-08,2.81338e-08,True
+Q3: other differences,Females: took the course vs didn't,writing,184,78.7935,334,68.982,9.81144,7.4129,12.21,8.03929,444.37,8.25203e-15,0.696105,7.8489e-14,9.90243e-14,True
+Q3: other differences,Females: took the course vs didn't,total,184,223.364,334,200.635,22.7294,15.4381,30.0207,6.12709,429.296,2.02654e-09,0.53752,9.54411e-09,1.62123e-08,True
+Q3: other differences,Lunch: standard vs free/reduced,math,645,70.0341,355,58.9211,11.113,9.21291,13.0131,11.4841,667.503,5.53958e-28,0.782266,1.52204e-26,8.86334e-27,True
+Q3: other differences,Lunch: standard vs free/reduced,reading,645,71.6543,355,64.6535,7.00074,5.11589,8.88559,7.29261,684.895,8.42169e-13,0.492407,3.69412e-12,8.42169e-12,True
+Q3: other differences,Lunch: standard vs free/reduced,writing,645,70.8233,355,63.0225,7.80072,5.84734,9.7541,7.84087,685.255,1.71615e-14,0.52933,5.08106e-14,1.88776e-13,True
+Q3: other differences,Lunch: standard vs free/reduced,total,645,212.512,355,186.597,25.9144,20.4568,31.3721,9.32321,674.608,1.58297e-19,0.632776,1.76178e-18,2.21616e-18,True
+Q3: other differences,Parents: degree vs no degree,math,399,68.604,601,64.4193,4.18471,2.27859,6.09083,4.30904,851.196,1.831e-05,0.278399,0.000147662,5.49301e-05,True
+Q3: other differences,Parents: degree vs no degree,reading,399,72.198,601,67.1581,5.03993,3.23042,6.84943,5.46654,876.67,5.98478e-08,0.350066,1.21994e-06,2.99239e-07,True
+Q3: other differences,Parents: degree vs no degree,writing,399,71.782,601,65.579,6.20292,4.3321,8.07374,6.50745,878.777,1.28266e-10,0.416412,3.69415e-09,1.1544e-09,True
+Q3: other differences,Parents: degree vs no degree,total,399,212.584,601,197.156,15.4276,10.1203,20.7348,5.7053,869.516,1.59204e-08,0.366277,3.72162e-07,9.55226e-08,True

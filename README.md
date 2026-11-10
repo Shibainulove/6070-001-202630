@@ -29,6 +29,7 @@ Click a notebook's **Open in Colab** badge below, then choose **Runtime → Run 
 | 9 | [Image site downloader](WeeklyModules/Week09/Week9_Image_Downloader.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shibainulove/6070-001-202630/blob/main/WeeklyModules/Week09/Week9_Image_Downloader.ipynb) |
 | 10 | [Improving code with generative AI](WeeklyModules/Week10/Participation_Activity_Week10_Improving_Coding.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shibainulove/6070-001-202630/blob/main/WeeklyModules/Week10/Participation_Activity_Week10_Improving_Coding.ipynb) |
 | 11 | [California's congressional districts: population overlay and heat map](WeeklyModules/Week11/Participation_Activity_Week11_CA_Congressional_Districts.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shibainulove/6070-001-202630/blob/main/WeeklyModules/Week11/Participation_Activity_Week11_CA_Congressional_Districts.ipynb) |
+| 12 | [p-values from t-tests on the student performance data](WeeklyModules/Week12/Participation_Activity_Week12_Student_Performance_T_Test.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shibainulove/6070-001-202630/blob/main/WeeklyModules/Week12/Participation_Activity_Week12_Student_Performance_T_Test.ipynb) |
 
 ## Folders
 
